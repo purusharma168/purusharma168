@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**purusharma168/purusharma168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am Puru Sharma. I am beginer in Machine learning.
 - 🔭 I’m currently working on ...python,Machine learning.
