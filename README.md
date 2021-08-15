@@ -13,5 +13,5 @@
 ### DevOps - Docker, Kubernetes, Gitlab CI, Linux
 
 
-https://www.linkedin.com/in/puru-sharma-270658158/
+
 
