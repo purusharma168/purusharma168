@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Puru Sharma.
-👨‍🚀 I'm currently working as Backend Developer
-🌱 I'm currently learning about Machine learning,Deep learning and Datascience
+### I am Puru Sharma.
+### 👨‍🚀 I'm currently working as Backend Developer
+### 🌱 I'm currently learning about Machine learning,Deep learning and Datascience
 📫 How to reach me purusharma021@gmail.com
 Web Backend Framework:- Flask/FastAPI
 
