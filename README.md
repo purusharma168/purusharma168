@@ -3,8 +3,8 @@
 
 ### Greetings Respected Viewers 👋
 
-This is ***Puru Sharma*** and I am a Data Science enthusiast. I have insights into ***Machine Learning, Deep Learning and 
-Natural Language Processing*** 
+This is ***Puru Sharma*** and I am a Data Science enthusiast. I have worked on Machine Learning
+currently started learning Deep Learning and Natural Language Processing.
 
 **Anyone can find me on: 
 **LinkedIn :- https://www.linkedin.com/in/puru-sharma-270658158/
@@ -19,8 +19,7 @@ Natural Language Processing***
 | Database | MySQL, MongoDB |
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook, google Colab |
 | Machine Learning | EDA, ML-Algorithms, Execution with Python |
-| Deep Learning | Neural Network, Computer Vision, Transfer Learning, Execution with python  |
-| Natural Language Processing | Neural Network, Transfer Learning, Execution with python |
+
 | Docker Kubernetes 
 | Cloud | AWS, GCP, Azure, Heroku |
 | Operating System | Windows, Linux |
@@ -32,8 +31,7 @@ Natural Language Processing***
 | --- | --- |
 | Python | Numpy, Pandas, sklearn, matplotlib, seaborn, pickle, keras, OpenCV, Tensorflow, Pytorch |
 | Machine Learnig | Linear Regression, Logistic Regression, Decision Tree, Support Vector Machine, Ensemble technique, Hyper Parameter tunning |
-| Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network |
-| Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, transfer learning model |
+
 
 <!--
 
