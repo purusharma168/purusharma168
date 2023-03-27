@@ -6,8 +6,7 @@
 This is ***Puru Sharma*** and I am a Data Science enthusiast. I have worked on Machine Learning
 currently started learning Deep Learning and Natural Language Processing.
 
-**Anyone can find me on: 
-**LinkedIn :- https://www.linkedin.com/in/puru-sharma-270658158/
+
 
 **Contact Me via** :- purusharma021@gmail.com
 
